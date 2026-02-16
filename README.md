@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**N1CKX-MU/N1CKX-MU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nishaanth S, Team Captain at Dreadnought Robotics.  
+Building competition-grade Autonomous Underwater Vehicles (AUVs) & robotics systems.
 
-Here are some ideas to get you started:
+- 🔭 Currently: Developing vision-based autonomy stacks for AUVs
+- 🌱 Learning: Advanced robotics software, SLAM & embedded systems
+- 👯 Open to: Collaborations on robotics & AI projects
+- 💬 Ask me about: ROS, robotics, embedded systems, AI
+- 📫 Reach me: nishaanth2005@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📈 GitHub Stats
+![Nishaanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=N1CKX-MU&show_icons=true&theme=dark)
+
