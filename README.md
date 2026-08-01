@@ -15,37 +15,25 @@
 
 <h3 align="center">Featured Projects</h3>
 
-<table>
+<table align="center">
   <tr>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/N1CKX-MU/visual-slam-autonomous-nav">Visual SLAM + Nav</a></b>
-      <br /><br />
-      Dual SLAM system (LiDAR + ORB-SLAM3) with frontier-based exploration and
-      autonomous navigation for TurtleBot3 — built on ROS2 Jazzy with Nav2 and
-      Gazebo Harmonic simulation.
-      <br /><br />
+    <td width="33%" align="center" valign="top">
+      <h4><a href="https://github.com/N1CKX-MU/visual-slam-autonomous-nav">Visual SLAM + Nav</a></h4>
+      <p>Dual SLAM system (LiDAR + ORB-SLAM3) with frontier-based exploration and autonomous navigation for TurtleBot3 — built on ROS2 Jazzy with Nav2 and Gazebo Harmonic simulation.</p>
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41" />
       <img src="https://img.shields.io/badge/ROS2-0D1117?style=flat-square&logo=ros&logoColor=00FF41" />
       <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00FF41" />
     </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/N1CKX-MU/quadruped-rl-locomotion">Quadruped RL Locomotion</a></b>
-      <br /><br />
-      Reinforcement learning-based locomotion controller for quadruped robots —
-      training robust gaits with sim-to-real transfer for agile, adaptive movement
-      across varied terrain.
-      <br /><br />
+    <td width="33%" align="center" valign="top">
+      <h4><a href="https://github.com/N1CKX-MU/quadruped-rl-locomotion">Quadruped RL Locomotion</a></h4>
+      <p>Reinforcement learning-based locomotion controller for quadruped robots — training robust gaits with sim-to-real transfer for agile, adaptive movement across varied terrain.</p>
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41" />
       <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00FF41" />
       <img src="https://img.shields.io/badge/RL-0D1117?style=flat-square&logo=openai&logoColor=00FF41" />
     </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/N1CKX-MU/Vision-Language-Action-Implementation">VLA Pipeline</a></b>
-      <br /><br />
-      Vision-Language-Action pipeline for autonomous robotic manipulation —
-      integrates Grounding DINO for zero-shot perception and Ollama/Qwen-2.5 for
-      semantic task reasoning in PyBullet simulation.
-      <br /><br />
+    <td width="33%" align="center" valign="top">
+      <h4><a href="https://github.com/N1CKX-MU/Vision-Language-Action-Implementation">VLA Pipeline</a></h4>
+      <p>Vision-Language-Action pipeline for autonomous robotic manipulation — integrates Grounding DINO for zero-shot perception and Ollama/Qwen-2.5 for semantic task reasoning in PyBullet simulation.</p>
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41" />
       <img src="https://img.shields.io/badge/PyBullet-0D1117?style=flat-square&logo=python&logoColor=00FF41" />
       <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=00FF41" />
