@@ -91,7 +91,3 @@
   <a href="mailto:nishaanth2005@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
   <a href="https://github.com/N1CKX-MU"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=N1CKX-MU&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
