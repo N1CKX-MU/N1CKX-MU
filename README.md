@@ -73,7 +73,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=N1CKX-MU&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-omega-hazel-70.vercel.app/api?username=N1CKX-MU&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
     </td>
     <td align="center" valign="top">
       <img src="https://streak-stats.demolab.com/?user=N1CKX-MU&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00FF41&sideLabels=c9d1d9&sideNums=00FF41&dates=555555&background=0D1117" alt="GitHub Streak" />
@@ -82,7 +82,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1CKX-MU&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-omega-hazel-70.vercel.app/api/top-langs/?username=N1CKX-MU&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
