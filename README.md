@@ -3,13 +3,6 @@
 <p align="center">
   <a href="https://github.com/N1CKX-MU"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Robotics+Engineer+%7C+AUV+Developer;ROS2+%7C+SLAM+%7C+Computer+Vision+%7C+RL;Building+Autonomous+Systems" alt="Typing SVG" /></a>
 </p>
-
-<p align="center">
-  Robotics engineer building autonomous underwater vehicles and intelligent robotic systems —
-  from vision-based SLAM pipelines to RL-trained locomotion controllers.
-  Comfortable across the stack: perception, planning, control, and the embedded systems that drive it.
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N1CKX-MU/N1CKX-MU/output/github-contribution-grid-snake-dark.svg" />
